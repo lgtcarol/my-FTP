@@ -1,0 +1,14 @@
+pwd  					显示当前路径
+help 					获取使用说明
+bye 					退出服务器
+ls     <rdir>  				遍历远端目录
+lls    <ldir>  				遍历本地目录
+lcd    <ldir> 				切换本地目录
+cd     <rdir> 				更改当前目录
+mkdir  <dirname> 			创建文件夹
+rm     <rdir 或者 rfile> 		删除文件或空目录
+find   <rfile 或者 rdir> 		查找当前目录下有无此文件或目录
+get    <rfiile> [-o ldir/filename] 	下载文件
+put    <lfile>  [-o rdir/filename] 	上传文件
+
+
